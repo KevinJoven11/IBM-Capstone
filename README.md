@@ -1,2 +1,2 @@
 # IBM-Capstone
-The development of this document is to approve the Final report on Advanced Data Science Capstone, it explain all about the topic and the development on it. Currently COVID 19 (June 2020) is the biggest problem in the world, not only because of the impact but also the deaths.
+The development of this document is to approve the Final report on Advanced Data Science Capstone, it explain all about the topic and the development on it. Currently COVID 19 (June 2020) is the biggest problem in the world, not only because of the impact but also the deaths, usamos la tecnicas enseñadas para la seleccion de un buen modelo capaz de predecir de la mejor manera la mayor cantidad de personas con COVID with only his age,sex and previus ilnnesses.
